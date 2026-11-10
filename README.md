@@ -39,3 +39,8 @@ RunningWorkout inherits type, duration, and showWorkout() from Workout. showDeta
 
 # Author
 Victor
+
+
+## Code Review
+- **Reviewed by:** Sarah Nguyen
+- **Status:** Checked code. Inheritance (`extends`), Scanner input, and calorie calculations are all correct and working!
